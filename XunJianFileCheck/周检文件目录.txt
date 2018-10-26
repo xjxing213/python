@@ -1,0 +1,95 @@
+
+│  C网周检.xlsx
+│  C网季检.xlsx
+│  C网日检.xlsx
+│  C网月检.xlsx
+│  L网周检.xlsx
+│  L网季检.xlsx
+│  L网日检.xlsx
+│  L网月检.xlsx
+│  周检文件目录.txt
+│  
+└─细项检查数据
+
+    │  【C网周检】1.中兴单板CPU负荷.Xlsx
+    │  【C网周检】1.华为单板CPU负荷.xlsx
+    │  【C网周检】2.华为BHCA BHPA.xlsx
+	【C网周检】2.中兴BHPA.xlsx
+    │  【C网周检】3.中兴PCF负荷.Xlsx
+    │  【C网周检】3.华为PCF负荷.Xlsx
+    │  【C网周检】4.中兴A口信令.Xlsx
+    │  【C网周检】4.华为A口信令.xlsx
+    │  【C网周检】5.中兴E1负荷.Xlsx
+    │  【C网周检】5.华为E1负荷.xlsx
+    │  【L网周检】L网S1、X2接口带宽.xlsx
+    │  【L网日检】1.话务与性能.xlsx
+    │  【L网日检】2.L网CPU负荷..xlsx
+    │  巡检故障派单信息汇总表.xlsx
+    │  
+    ├─MR订阅及开关检测
+    │  │  爱立信MR开关检测.xlsx
+    │  │  
+    │  ├─L网中兴MR订阅-2018年第33周
+    │  │      12.png
+    │  │      10.png
+    │  │      11.png
+    │  │      13.png
+    │  │      14.png
+    │  │      15.png
+    │  │      16.png
+    │  │      17.png
+    │  │      18.png
+    │  │      19.png
+    │  │      20.png
+    │  │      21.png
+    │  │      22.png
+    │  │      23.png
+    │  │      24.png
+    │  │      7.png
+    │  │      8.png
+    │  │      9.png
+    │  │      
+    │  └─L网华为MR订阅-2018年第33周
+    │          svr1-1.bmp
+    │          svr1-2.bmp
+    │          svr1-3.bmp
+    │          svr2-1.bmp
+    │          svr2-2.bmp
+    │          svr2-3.bmp
+    │          svr3-1.bmp
+    │          svr3-2.bmp
+    │          svr3-3.bmp
+    │          svr4-1.bmp
+    │          svr4-2.bmp
+    │          svr4-3.bmp
+    │          svr5-1.bmp
+    │          svr5-2.bmp
+    │          svr5-3.bmp
+    │          svr6-1.bmp
+    │          svr6-2.bmp
+    │          svr6-3.bmp
+    │          svr8-1.bmp
+    │          svr8-2.bmp
+    │          svr8-3.bmp
+    │          svr9-1.bmp
+    │          svr9-2.bmp
+    │          svr9-3.bmp
+    │          
+    ├─【L网周检】license
+    │  │  【L网周检】L网中兴license-2018年第33周.xlsx
+    │  │  
+    │  └─【L网周检】L网华为license-2018年第33周
+    │          1.xlsx
+    │          2.xlsx
+    │          3.xlsx
+    │          4.xlsx
+    │          5.xlsx
+    │          6.xlsx
+    │          8.xlsx
+    │          9.xlsx
+    │          
+    └─【季检】数据检查-设备登陆权限
+            附件2、全省需稽核用户账号及权限清单一季度.xlsx
+            附件2、全省需稽核用户账号及权限清单三季度.xlsx
+            附件2、全省需稽核用户账号及权限清单二季度.xlsx
+            
