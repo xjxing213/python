@@ -23,9 +23,9 @@ while True:
 ##    minutes=int(str(datetime.datetime.now())[15:16])
 ##    print(minutes)
     now=str(datetime.datetime.now())[:19]
-    APP_ID = '14686076'
-    API_KEY = 'HbB9spO0atlPBXOD0BmfTs4M'
-    SECRET_KEY = 'SIXU6axXOZk2XgG9uRRut8gaxE8xmRRh' 
+    APP_ID = '1468'
+    API_KEY = 'HbB9spO0atlPBX'
+    SECRET_KEY = 'SIXU6axXOZk2XgG9u' 
     client = AipSpeech(APP_ID, API_KEY, SECRET_KEY)
     str1='现在时间是：' + now
     result  = client.synthesis(str1, 'zh', 1, {'vol': 7,'per':0})
